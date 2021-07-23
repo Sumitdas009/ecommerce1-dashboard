@@ -20,4 +20,4 @@ Open Your browser put inside browser “http://localhost/Ecommerce/admin/”
 
 
 
-![screencapture-localhost-Ecommerce-index-php-2021-07-23-09_46_40](https://youtu.be/W5JsUibvEMo)
+![screencapture-localhost-Ecommerce-index-php-2021-07-23-09_46_40](https://user-images.githubusercontent.com/64792024/126737212-68340ed2-c546-435d-823d-3af66983d533.png)(https://youtu.be/W5JsUibvEMo)
