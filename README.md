@@ -17,3 +17,7 @@ Open Your browser put inside browser “http://localhost/Ecommerce/index.php”
 
 For Admin Panel
 Open Your browser put inside browser “http://localhost/Ecommerce/admin/” 
+
+
+
+![screencapture-localhost-Ecommerce-index-php-2021-07-23-09_46_40](https://youtu.be/W5JsUibvEMo)
